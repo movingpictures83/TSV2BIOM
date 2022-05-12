@@ -1,0 +1,2 @@
+Prefix plugins/TSV2BIOM/example
+Plugin TSV2BIOM inputfile synthetic.tsv outputfile synthetic.biom
